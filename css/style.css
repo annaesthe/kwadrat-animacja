@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+
+div#kontener .buttons {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 46%;
+    margin-top: 5%;
+}
+
+div#kontener .buttons:hover {
+    background-color: darkseagreen;
+}
+
+div#kwadrat {
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    position: relative;
+    margin-left: 44%;
+    margin-top: 5%;
+}
